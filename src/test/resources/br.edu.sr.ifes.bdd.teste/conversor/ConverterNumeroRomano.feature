@@ -12,7 +12,7 @@ Feature: Converter números romanos em número naturais maiores que zero
     Then Eu tenho o número 2 como resultado   
     
  Scenario: informando o número IX
-    Given Eu tenho o número "IX"
+    Given Eu tenho o número "AIX"
     When Eu quero converter para um número natural 
     Then Eu tenho o número 9 como resultado   
  
